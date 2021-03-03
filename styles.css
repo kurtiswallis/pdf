@@ -1,6 +1,6 @@
 body {
 	#ifMobile1 {
-    background-image: url(Screen Shot 2020-03-30 at 11.00.20 AM.png)
+    background-image: url(Screen Shot 2021-03-02 at 3.42.44 PM.png)
     background-repeat: no-repeat
 	    max-width: 100%  ;
     height: auto  ;
@@ -8,7 +8,7 @@ body {
 
 @media all and (max-width: 499px) {
     #ifMobile1 {
-        background-image: url(Screen Shot 2020-04-09 at 10.01.11 AM.png)
+        background-image: url(Screen Shot 2021-03-02 at 3.42.44 PM.png)
         background-repeat: no-repeat
 		max-width: 499px;
         height: auto  ;
